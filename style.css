@@ -1,0 +1,15 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+    
+h3{
+    box-shadow: 5px greenyellow;
+    border-radius: 5px;
+    border-style: groove;
+}
+.copy_rights_footer{
+    line-height: 2px;
+    bottom: 15px;
+    position: fixed;
+}
